@@ -52,9 +52,10 @@ jarvis-voice-assistant/
 ├── README.md           # Project overview
 └── .gitignore          # Files to ignore in Git
 
-📜 License
+📝 License
 
-📝 This project is licensed under the MIT License. Feel free to use and modify it.
+ This project is licensed under the MIT License. Feel free to use and modify it.
+
 🙋‍♂️ Contributions
 
 Pull requests are welcome! Feel free to open issues or suggest features 💡.
