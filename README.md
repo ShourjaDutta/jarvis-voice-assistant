@@ -55,6 +55,8 @@ jarvis-voice-assistant/
 
 ├── README.md           # Project overview
 
+├── LICENSE           # License
+
 └── .gitignore          # Files to ignore in Git
 
 📝 License
