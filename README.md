@@ -36,6 +36,7 @@ pip install -r requirements.txt
 python jarvis.py
 
 🎧 Make sure your microphone is working and you are in a quiet environment.
+
 🧩 Customize
 
     🎶 Change the music path in the code (musicPath)
@@ -48,8 +49,11 @@ python jarvis.py
 
 jarvis-voice-assistant/
 ├── jarvis.py           # Main script
+
 ├── requirements.txt    # Python dependencies
+
 ├── README.md           # Project overview
+
 └── .gitignore          # Files to ignore in Git
 
 📝 License
