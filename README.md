@@ -48,6 +48,7 @@ python jarvis.py
 📁 File Structure
 
 jarvis-voice-assistant/
+
 ├── jarvis.py           # Main script
 
 ├── requirements.txt    # Python dependencies
